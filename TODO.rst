@@ -1,0 +1,3 @@
+- [ ] include man
+- [ ] include tests
+- [ ] maybe include sphinx docs
